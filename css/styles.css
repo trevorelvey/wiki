@@ -11,3 +11,7 @@ body {
 .termDef {
   font-size: 19px;
 }
+
+.boxModel {
+  width: 100%;
+}
