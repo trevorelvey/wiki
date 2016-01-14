@@ -7,3 +7,7 @@ body {
 .jumbotron, .well {
   background-color: #dbdbdb;
 }
+
+.termDef {
+  font-size: 19px;
+}
